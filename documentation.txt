@@ -1,15 +1,3 @@
---NOTES--
-
-
-
-
-
---ROADMAP--
-1-- Create Template HTML5 and CSS3
-2-- Install Fontawesome
-3-- Create Navbar
-4-- Create Home 
-
 
 
 
